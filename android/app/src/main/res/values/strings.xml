@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Orbital Cipher AR</string>
+    <string name="title_activity_main">Orbital Cipher AR</string>
+    <string name="package_name">edu.orbitalcipher.ar</string>
+    <string name="custom_url_scheme">edu.orbitalcipher.ar</string>
+</resources>
